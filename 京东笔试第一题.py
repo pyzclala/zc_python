@@ -4,7 +4,7 @@ Created on Sat Apr 13 20:59:33 2019
 
 @author: LLLL
 """
-
+#2019年京东暑期笔试第一题
 x=[]
 x=input()
 
